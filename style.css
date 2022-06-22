@@ -1,0 +1,13 @@
+.hidden{
+	color: transparent;
+}
+
+body{
+	background: rgb(80, 80, 80);
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+}
